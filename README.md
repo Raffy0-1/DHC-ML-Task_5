@@ -74,7 +74,8 @@ DHC-ML-Task_5/
 │                                         # model training, CLI chatbot & Streamlit UI
 ├── 📓 Failed_Mental_Health_Chatbot.ipynb # Earlier iteration — kept for transparency
 │
-├── 📁 Results/                           # Training results and outputs
+├── 📁 Results
+│                          # Training results and outputs
 ├── 📄 requirements.txt                   # Python dependencies
 ├── 📄 README.md
 ├── 📄 .gitignore
